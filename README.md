@@ -1,1 +1,5 @@
 # CS330-SNHU
+
+Through this course I have gained skills working with OpenGL creating 3D images. Prior to this project I had no experience working with creating objects in 3D. During development I focused on the user needs of each aspect of the scene. I learned the importance of placement, lighting, and texture. These are all important elements that can be implemented in future work. During development I implemented constant testing and trial and error during design. My approach to developing code evolved during this project as I orginionally created my project from scratch the first few weeks, then began building on what I had previously created halfway through the course which saved a large amount of time. 
+
+The skills learned during this course pertaining to computer science gave me a better understanding of the time and effort that goes into designing 3D images and other graphical work. I will apply this knowledge in future projects where it may apply and continue to develop these skills as I progress as a developer.
